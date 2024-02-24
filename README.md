@@ -7,7 +7,7 @@ Therefore all **experimental** macros, setups etc. are also uploaded here.
 ### For **stable** releases please check out my “Green” (V2.4R2 300mm)
 
 
-## Software:
+## Software
 - [Klipper](https://github.com/Klipper3d/klipper)
 - [Moonraker](https://github.com/Arksine/moonraker)
 - [Mainsail](https://github.com/Arksine/moonraker)
@@ -20,7 +20,7 @@ Therefore all **experimental** macros, setups etc. are also uploaded here.
 - [KIAUH](https://github.com/dw-0/kiauh)
 
 
-## Mods:
+## Mods
 - [Integrated CW2 Runout Sensor](https://www.printables.com/de/model/361403-clockwork-2-filament-runout-sensor)
 - [Bambu Clone Hotend Printhead](https://www.printables.com/de/model/497742-bambu-hotend-stealthburner-printhead)
 - [SB2040 PCB Cober](https://www.printables.com/de/model/353867-voron-stealthburner-sb2040-cover)
@@ -35,9 +35,19 @@ Therefore all **experimental** macros, setups etc. are also uploaded here.
 - Frame Temperature Sensor
 - [Z Belt Covers](https://www.printables.com/de/model/361381-z-belt-cover-with-rail-cutout)
 
-## Hardware:
+## Hardware
 - BTT Octopus
 - Mellow SB2040 V1 (via Canbus Bridge)
 - BTT CB1 & Adapter Board
 - Kaulery 1080p Webcam
 - BTT Mini12864 LCD
+
+## Selfmade Macros
+#### - CLEAN_NOZZLE
+→ A really simple macro for cleaning the nozzle with a nozzle brush.
+#### - PURGE_LINE
+→ A large variable purge line. Enables cold filament changes. Does have some settings for customisations.
+#### - PRINT_START and PRINT_START_VARIABLES
+→  Full adaptive PRINT_START package which works with every V2.4 size. Full start routine with filament dependent fan control. Does also have PRINT_START_VARIABLES as a dummy macro which enables variable pulling.
+- Many more modified macros (see macros.cfg)
+
