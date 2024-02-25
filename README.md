@@ -42,13 +42,13 @@ Therefore all **experimental** macros, setups etc. are also uploaded here.
 - BTT Mini12864 LCD
 
 ## Selfmade Macros
-**- CLEAN_NOZZLE**    
+- **CLEAN_NOZZLE**    
 → A really simple macro for cleaning the nozzle with a nozzle brush.  
 
-**- PURGE_LINE**  
+- **PURGE_LINE**  
 → A large variable purge line. Enables cold filament changes. Does have some settings for customisations.  
 
-**- PRINT_START and PRINT_START_VARIABLES**  
+- **PRINT_START and PRINT_START_VARIABLES**  
 →  Full adaptive PRINT_START package which works with every V2.4 size. Full start routine with filament dependent fan control.  
 →  Does also have PRINT_START_VARIABLES as a dummy macro which enables variable pulling.  
 
