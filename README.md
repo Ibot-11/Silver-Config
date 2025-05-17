@@ -1,10 +1,5 @@
 # Silver (250mm)
-Here you can find all my configs of my **Voron 2.4R2** with the name Silver.
-This is my **development** printer. This means everytime I try new stuff I'll do it on this one.
-Therefore all **experimental** macros, setups etc. are also uploaded here.
-
-### For **stable** releases please check out my ["Green"](https://github.com/Ibot-11/Green-Config) (V2.4R2 300mm)
-
+Here you can find all my configs of my **Voron 2.4R2** with the name Silver..
 
 ## Software
 - [Klipper](https://github.com/Klipper3d/klipper)
